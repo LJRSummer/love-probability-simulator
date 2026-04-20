@@ -1,4 +1,4 @@
-# 恋爱概率模拟器 · Love Probability Simulator
+# 他/她喜欢我吗 Crush Skill · Love Probability Simulator
 
 > 忽冷忽热，欲拒还迎...暧昧让人受尽委屈，但如果这种不确定性能被量化呢？
 
