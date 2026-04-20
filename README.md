@@ -1,4 +1,4 @@
-# 他/她喜欢我吗 Crush Skill
+#                 他/她喜欢我吗 Crush.Skill
 
 > 我开始对你产生意义了吗？
 >
