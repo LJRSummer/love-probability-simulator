@@ -1,6 +1,10 @@
-# 他/她喜欢我吗 Crush Skill · Love Probability Simulator
+# 他/她喜欢我吗 Crush Skill
 
 > 我开始对你产生意义了吗？
+>
+> 忽冷忽热，欲拒还迎...
+>
+> 暧昧让人受尽委屈，但如果这种不确定性能被量化呢？
 
 ![version](https://img.shields.io/badge/version-1.0.0-ff69b4)
 ![license](https://img.shields.io/badge/license-MIT-blue)
@@ -8,7 +12,6 @@
 ---
 
 ## ✨ 它能做什么
-忽冷忽热，欲拒还迎...暧昧让人受尽委屈，但如果这种不确定性能被量化呢？
 
 输入crush/暧昧对象的相关信息，帮你计算目前的攻略进度，以及分析她/他目前的想法。
 
