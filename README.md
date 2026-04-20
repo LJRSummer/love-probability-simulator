@@ -1,5 +1,6 @@
 # 他/她喜欢我吗 Crush Skill · Love Probability Simulator
 
+> 我开始对你产生意义了吗？
 > 忽冷忽热，欲拒还迎...暧昧让人受尽委屈，但如果这种不确定性能被量化呢？
 
 
